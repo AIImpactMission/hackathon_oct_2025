@@ -17,7 +17,7 @@ import os
 load_dotenv()  # load environment variables from .env
 
 class Agent:
-    def _init_(self):
+    def __init__(self):
         self.tools = []
         self.anthropic = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY")) # Initialise Claude
 
