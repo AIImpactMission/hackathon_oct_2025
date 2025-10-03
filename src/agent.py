@@ -97,5 +97,5 @@ async def main(verbose: bool = True):
     # TODO: write answers to json file OR send to central server with HTTP Post
     return answers
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     answers = asyncio.run(main())
