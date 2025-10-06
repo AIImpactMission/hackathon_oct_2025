@@ -1,0 +1,202 @@
+{
+  "125": {
+    "question": "What was the year when the United Kingdom recorded its minimum percentage change in fossil fuel consumption ('fossil_cons_change_pct') between 2000 and 2020?",
+    "answer_type": "int",
+    "unit": "Year"
+  },
+  "91": {
+    "question": "What were the annual CO2 emissions in tonnes for Austria in 1750?",
+    "answer_type": "float",
+    "unit": "tonnes"
+  },
+  "85": {
+    "question": "How many tonnes of location-based scope 2 greenhouse gas emissions did Erste Bank emit in 2023?",
+    "answer_type": "float",
+    "unit": "tCO2eq"
+  },
+  "132": {
+    "question": "What is RWE's 2024 capital expenditure on property, plant and equipment and intangible assets per tonne of the combined Scope 1 emissions of GSK (2023), Swisscom (2023), and Erste Bank (2024)? Provide the answer rounded to two decimal places.",
+    "answer_type": "float",
+    "unit": "EUR per tonne"
+  },
+  "101": {
+    "question": "What percentage of GSK's paper packaging came from certified or recycled sources in 2023?",
+    "answer_type": "float",
+    "unit": "percent"
+  },
+  "99": {
+    "question": "How many litres of water did Erste Group consume in cubic meters in 2024.",
+    "answer_type": "float",
+    "unit": "cubic meters"
+  },
+  "98": {
+    "question": "How many employees of Erste Group were working on ESG projects full-time in 2024.",
+    "answer_type": "int",
+    "unit": "count"
+  },
+  "92": {
+    "question": "By how many percent did the total greenhouse gas emissions including land use change from the year 2000 to 2023 in Austria?",
+    "answer_type": "float",
+    "unit": "percent"
+  },
+  "90": {
+    "question": "What were the annual total greenhouse gas emissions including land use in tonnes for Austria in 2023?",
+    "answer_type": "float",
+    "unit": "tonnes"
+  },
+  "118": {
+    "question": "What was the value of coal consumption for China in 2012?",
+    "answer_type": "float",
+    "unit": "TWh"
+  },
+  "89": {
+    "question": "How many tonnes gross scope 1 greenhouse gas emissions did Erste Bank emit 2024?",
+    "answer_type": "float",
+    "unit": "tCO2eq"
+  },
+  "121": {
+    "question": "What was the total electricity generation for Japan and South Korea combined in 2020?",
+    "answer_type": "float",
+    "unit": "TWh"
+  },
+  "111": {
+    "question": "What was the percentage change in solar electricity generation for Japan between 2010 and 2020?",
+    "answer_type": "float",
+    "unit": "%"
+  },
+  "86": {
+    "question": "What were the location-based scope 2 CO2 emissions in tCO2eq reported by GSK in 2023?",
+    "answer_type": "float",
+    "unit": "tCO2eq"
+  },
+  "134": {
+    "question": "How many UK citizens (residents) worth of per capita CO2 emissions equal GSK's total Scope 1 emissions in 2023? Round to the nearest whole person.",
+    "answer_type": "int",
+    "unit": "people"
+  },
+  "126": {
+    "question": "For Canada in 2019, calculate the ratio of Oil Consumption to Oil Production.",
+    "answer_type": "float",
+    "unit": "Ratio (Consumption/Production)"
+  },
+  "97": {
+    "question": "Erste Group committed to achieving net-zero in its own operations by 2030.",
+    "answer_type": "bool",
+    "unit": "boolean"
+  },
+  "130": {
+    "question": "By the end of 2024, global renewable power capacity reached how many gigawatts (GW) ?",
+    "answer_type": "int",
+    "unit": "GW"
+  },
+  "116": {
+    "question": "What was the annual average coal consumption for Australia over the period 2015-2020?",
+    "answer_type": "float",
+    "unit": "TWh"
+  },
+  "136": {
+    "question": "What was the operating income of Erste Bank in million Hungarian Forint in 2024, rounded to three decimal places?",
+    "answer_type": "float",
+    "unit": "HUF million"
+  },
+  "96": {
+    "question": "The main driver of sustainable corporate financing growth in 2024 was coal power plant financing.",
+    "answer_type": "bool",
+    "unit": "boolean"
+  },
+  "106": {
+    "question": "What is the total water consumption in cubic meters reported by Swisscom in 2020?",
+    "answer_type": "float",
+    "unit": "m3"
+  },
+  "104": {
+    "question": "How many electric vehicles were in Swisscom's fleet at the end of 2024?",
+    "answer_type": "int",
+    "unit": "count"
+  },
+  "114": {
+    "question": "What was the Compound Annual Growth Rate (CAGR) of territorial CO2 emissions for China between 2010 and 2020?",
+    "answer_type": "float",
+    "unit": "%"
+  },
+  "133": {
+    "question": "What is Erste Bank's carbon intensity (Scope 1 emissions per million EUR operating income) in 2024? Provide the answer rounded to three decimal places.",
+    "answer_type": "float",
+    "unit": "tCO2eq per million EUR"
+  },
+  "119": {
+    "question": "What was the low carbon intensity value for Brazil in 2020?",
+    "answer_type": "float",
+    "unit": "TWh"
+  },
+  "135": {
+    "question": "After converting Erste Bank's 2024 operating income from EUR to GBP using the provided currency converter, dividing that GBP figure by Austria's 2023 total greenhouse gas emissions including land use including LULUCF to obtain the GBP value per tonne, applying that rate to GSK's 2023 Scope 1 emissions, and then scaling the result by the 2024 share of RWE's external revenue attributable to coal (calculated from €5,156 million coal revenue out of 24,224 million total), what is the resulting amount in million GBP? Provide the answer rounded to three decimal places.",
+    "answer_type": "float",
+    "unit": "million GBP"
+  },
+  "127": {
+    "question": "What is the rank (as an integer) of the 2025 Corbières Massif wildfire, among all wildfires in France since the 1949 Landes forest fire, in terms of size?",
+    "answer_type": "int",
+    "unit": "rank"
+  },
+  "102": {
+    "question": "How much did total Scope 3 wastewater-based emissions decrease from 2022 to 2023 in tonnes of water?",
+    "answer_type": "float",
+    "unit": "tCO2e"
+  },
+  "129": {
+    "question": "Which country was most affected, in terms of number of people concerned, by the biggest power outage in 2025?",
+    "answer_type": "string",
+    "unit": "country name"
+  },
+  "84": {
+    "question": "Which company had the highest scope 1 co2 emissions in 1995? Erste Group, Swisscom or GSK.",
+    "answer_type": "string",
+    "unit": "company name"
+  },
+  "120": {
+    "question": "What was the cumulative CO2 for Japan by 2008?",
+    "answer_type": "float",
+    "unit": "million tonnes"
+  },
+  "110": {
+    "question": "What was the sum of CO2 emissions from Oil, Gas, and Coal for the United States in 2019? Do not take cumulative values.",
+    "answer_type": "float",
+    "unit": "million tonnes"
+  },
+  "94": {
+    "question": "What was the effective income tax rate for Erste Group in 2024?",
+    "answer_type": "float",
+    "unit": "percent"
+  },
+  "112": {
+    "question": "What was the absolute difference (non-negative value) in coal electricity production for China between 2010 and 2015?",
+    "answer_type": "float",
+    "unit": "TWh"
+  },
+  "88": {
+    "question": "Which company had the lowest location-based scope 2 co2 emissions in 2023? Erste Group, Swisscom or GSK?",
+    "answer_type": "string",
+    "unit": "company name"
+  },
+  "128": {
+    "question": "In terms of carbon sequestration, fully using the Earth's geologic storage capacity would help limit global warming by how many degrees Celsius according to the latest study on this topic?",
+    "answer_type": "float",
+    "unit": "degrees Celsius"
+  },
+  "115": {
+    "question": "What was the ratio of CO2 from Coal vs Oil for India in 2021?",
+    "answer_type": "float",
+    "unit": "Ratio"
+  },
+  "113": {
+    "question": "What is the difference between the GDP of the United States and the GDP of China in 2008?",
+    "answer_type": "float",
+    "unit": "int. dollars (2020)"
+  },
+  "117": {
+    "question": "What was the annual average total CO2 emissions from cement for the UK over the period 2000-2008?",
+    "answer_type": "float",
+    "unit": "TWh"
+  }
+}
