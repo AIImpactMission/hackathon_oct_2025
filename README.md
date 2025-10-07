@@ -1,7 +1,7 @@
 # AIM Hackathon - Agentic AI for Sustainability Questions
 4th of October 2025
 
-(<img src="assets/flyer.png" alt="Hackathon Flyer" width="400"/>)
+<img src="assets/flyer.png" alt="Hackathon Flyer" width="400"/>
 
 ## Getting Started
 1. Clone repository
